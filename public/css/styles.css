@@ -260,7 +260,7 @@ a{
   display: flex;
   flex-wrap: wrap;
   list-style: none;
-  height: 600px;
+  height: 500px;
   width: auto;
   margin: 0;
   padding-left: 10%;
@@ -279,7 +279,7 @@ a{
 }
 
 .card {
-  background-color: white;
+  background-color: rgb(85, 138, 180);
   border-radius: 0.25rem;
   box-shadow: 0 20px 40px -14px rgba(0,0,0,0.25);
   display: flex;
@@ -316,7 +316,8 @@ a{
   margin-bottom: 1.25rem;
 }
 .card-img-top{
-  width: 340px;
+  border-color: #ef8172;
+  width: 345px;
   height: 220px;
 }
 
